@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.5.1 (+https://scrapy.org)
+Cookie: __cfduid=d0293e1c0b4fc5733cb4b7ec1b72f12a51550674947
+Referer: https://www.drive.com.au/car-sales/buy-used-cars/australia?makeMulti%5B0%5D=&modelMulti%5B0%5D=&priceMin=&priceMax=&keywords=&advancedSearch=
